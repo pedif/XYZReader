@@ -10,6 +10,7 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="content_horizontal_margin">16dp</dimen>
     <dimen name="content_vertical_margin">8dp</dimen>
+    <dimen name="appbar_elevation">4dp</dimen>
 
 
 </resources>
